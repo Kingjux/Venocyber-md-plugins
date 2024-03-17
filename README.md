@@ -1,9 +1,4 @@
-# ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ ᴘʟᴜɢɪɴꜱ ✍️🇹🇿
-
-
-
-
-<h1 align="center"> Gifted-Bot Plugins </h1>
+<h1 align="center"> ᴠᴇɴᴏᴄʏʙᴇʀ ᴍᴅ ᴘʟᴜɢɪɴꜱ✍️🇹🇿 </h1>
 <div align="center">
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Suhail&label=Visitors%20count&color=10d9c3&style=plastic" alt="VenocyberTech-plugin-list" /> </p>
